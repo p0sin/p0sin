@@ -8,7 +8,7 @@ Self-taught software developer with a passion for continuous learning and growth
 
 * 🌍  I'm based in Guadalajara
 * 🖥️  See my portfolio at [MyPortfolio](http://arturopo.netlify.app/)
-* ✉️  You can contact me at [elposin@gmail.com](mailto:elposin@gmail.com)
+* ✉️  You can contact me at [arturo.po.dev@gmail.com](mailto:arturo.po.dev@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Gamer at heart, coding wizard by necessity 🎮💻
