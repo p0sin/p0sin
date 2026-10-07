@@ -7,10 +7,9 @@ Software Developer
 Self-taught software developer with a passion for continuous learning and growth. After transitioning from a career in civil engineering, I embarked on a journey to explore the world of coding. Starting with the fundamentals of computer science, I dove into learning Python and have since expanded my repertoire to encompass other programming languages. Committed to expanding my skills and contributing to innovative projects. Excited to collaborate with like-minded individuals and explore new technologies. Let's build something amazing together!
 
 * 🌍  I'm based in Guadalajara
-* 🖥️  See my portfolio at [MyPortfolio](http://arturopo.netlify.app/)
-* ✉️  You can contact me at [arturo.po.dev@gmail.com](mailto:arturo.po.dev@gmail.com)
+* ✉️  You can contact me at [arturopo97@gmail.com](mailto:arturopo97@gmail.com)
 * 🚀 I'm currently working at SENSOmx
-* 🧠  I'm learning Data Structures and Algorithms
+* 🧠  I'm learning AI Enngineering.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Gamer at heart, coding wizard by necessity 🎮💻
 
